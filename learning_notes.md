@@ -32,18 +32,18 @@ The files has been deleted in working directory but you have an unsaved version 
 If you wanna keep the file, just save it, or if you didn't mean to keep it, close the tab and the file is gone.  
 Git won't kill the file unless you commited a deletion.  
 
-III. Single file object?  
+### III. Single file object?  
 It is totally useless since we're operating between local repo and remote repo, any update on the single file object is invisible for Git.  
 
-IV. How can we identify whether the page we're working in is a local repo folder or just a single file object from infromation given by a vscode page?  
+### IV. How can we identify whether the page we're working in is a local repo folder or just a single file object from infromation given by a vscode page?  
 (1). Look at the path above! is a repo's name included?  
 (2). type git status in the terminal, see if fatal... jumps out.  
 
 
-V. How can we get to the local repo?  
+### V. How can we get to the local repo?  
 Path switching command! You'd better know your local reepo folder's name.  
 
-VI. C:\Users\z1338 explanation?  
+### VI. C:\Users\z1338 explanation?  
 C: : the driver letter  
 \Users : a folder in the root of the C: drive, storing users' personal files and settings  
 \z1338:  My windows user account name  
