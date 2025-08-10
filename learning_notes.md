@@ -22,6 +22,11 @@ always keep my remote and local repos sychronized, so you won't oversrite or los
 
 While creating a remote repo in github is easy, creata a local repo is trickier. We can clone our remote repo.
 
+### 6. Summarize the errors and problems  
+
+We wanna interact between local repo nd remote repo, which means the single file on the desktop won't help, updates on that won't count.
+
+
 
 
 
