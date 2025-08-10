@@ -43,6 +43,12 @@ IV. How can we identify whether the page we're working in is a local repo folder
 V. How can we get to the local repo?  
 Path switching command! You'd better know your local reepo folder's name.  
 
+VI. C:\Users\z1338 explanation?  
+C: : the driver letter  
+\Users : a folder in the root of the C: drive, storing users' personal files and settings  
+\z1338:  My windows user account name  
+
+
 
 
 
